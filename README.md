@@ -25,5 +25,5 @@ Once songs are added to an album you are then able to play, favorite, and delete
 
 Searching
 
-You can also search for music using the search feature at the top of every page. Any relevant albums will appear at the top of the results page, and the results for individual songs will appear below.
+You can also search for music using the search feature at the top of every page. Any relevant albums will appear at the top of the results page, and the results for individual songs will appear .
 
